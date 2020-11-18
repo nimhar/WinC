@@ -8,7 +8,7 @@ When one learns the words in this way, it turns out that it is much easier to re
 
 ## Screenshots
 
-![alt text](https://github.com/[nimhar]/[WinC]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[nimhar]/[WinC]/blob/[screenshots]/Loading.jpg?raw=true)
 
 
 ## Usage
