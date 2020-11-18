@@ -12,14 +12,15 @@ Use the app as following:
 Download the files to your computer, store them on the same folders as the repository and run Winc.jar.
 
 ## Screenshots
-The first screen asks the user to write the word he would like to see and hear within a sentence in the video
+The first screen asks the user to write the word he would like to see and hear within a sentence in the video.
 ![alt text](https://github.com/nimhar/WinC/blob/main/screenshots/main.png?raw=true)
 
 Searching will be loading for a while....
 ![alt text](https://github.com/nimhar/WinC/blob/main/screenshots/Loading.png?raw=true)
 
-After the results will be shown, the user would choose the sentence he would love to see.
-![alt text](https://github.com/nimhar/WinC/blob/main/screenshots/result.png?raw=true)
+After the results will be shown,
+the user would choose the sentence he would love to see.
+![alt text](https://github.com/nimhar/WinC/blob/main/screenshots/results.png?raw=true)
 
 Finally, the video will be played! 
 It will start 5-10 seconds before the requested sentence and will be heard until it ends. 
