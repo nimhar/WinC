@@ -19,12 +19,12 @@ Searching will be loading for a while....
 ![alt text](https://github.com/nimhar/WinC/blob/main/screenshots/Loading.png?raw=true)
 
 After the results will be shown, the user would choose the sentence he would love to see.
-![alt text](https://github.com/nimhar/WinC/blob/main/screenshots/result_circ.png?raw=true)
+![alt text](https://github.com/nimhar/WinC/blob/main/screenshots/result.png?raw=true)
 
 Finally, the video will be played! 
 It will start 5-10 seconds before the requested sentence and will be heard until it ends. 
 The user can watch it again, using the "Play the sentence again" button.
-![alt text](https://github.com/nimhar/WinC/blob/main/screenshots/result_circ.png?raw=true)
+![alt text](https://github.com/nimhar/WinC/blob/main/screenshots/sentence_arr.png?raw=true)
 
 That's all. Nice, right? :)
 
