@@ -1,6 +1,6 @@
 # WinC - Words in Context
 
-Winc is a video-based search engine, whose original purpose was practice for language and vocabulary tests.
+WinC is a video-based search engine developed in 2016, whose original purpose was practice for language and vocabulary tests.
 
 The software emphasizes the context of the word within its various uses: how the word sounds, how it can be read, how it is used in different sentences and in what situation it is said.
 
