@@ -46,7 +46,7 @@ Please make sure to update tests as appropriate.
 
 Notice that the code has been decompiled from the jar files since the original code files has been lost.
 
-it is more than plausible that changes and faults will be found. 
+It is more than plausible that changes and faults will be found. 
 If this is the case,  would love to know so!
 
 ## License
