@@ -8,10 +8,10 @@ When one learns the words in this way, it turns out that it is much easier to re
 
 ## Instructions
 
-For running the app on your computer you must have Java enviroment. it can be found in here:
+For running the app on your computer you must have Java environment. it can be found in here:
 https://www.oracle.com/java/technologies/javase-jre8-downloads.html
 
-If you already have an enviroment:
+If you already have an environment on your computer:
 
 Download the files and store them at the same folders as the repository is arranged (the code is not neccesery), and run Winc.jar.
 
