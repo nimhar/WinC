@@ -8,8 +8,14 @@ When one learns the words in this way, it turns out that it is much easier to re
 
 ## Instructions
 
-Use the app as following:
-Download the files to your computer, store them on the same folders as the repository and run Winc.jar.
+For running the app on your computer you must have Java enviroment. it can be found in here:
+https://www.oracle.com/java/technologies/javase-jre8-downloads.html
+
+If you already have an enviroment:
+
+Download the files and store them at the same folders as the repository is arranged (the code is not neccesery), and run Winc.jar.
+
+
 
 ## Screenshots
 The first screen asks the user to write the word he would like to see and hear within a sentence in the video.
@@ -19,13 +25,17 @@ Searching will be loading for a while....
 ![alt text](https://github.com/nimhar/WinC/blob/main/screenshots/Loading.png?raw=true)
 
 After the results will be shown,
+
 the user would choose the sentence he would love to see.
 ![alt text](https://github.com/nimhar/WinC/blob/main/screenshots/results.png?raw=true)
 
 Finally, the video will be played! 
+
 It will start 5-10 seconds before the requested sentence and will be heard until it ends. 
+
 The user can watch it again, using the "Play the sentence again" button.
 ![alt text](https://github.com/nimhar/WinC/blob/main/screenshots/sentence_arr.png?raw=true)
+
 
 That's all. Nice, right? :)
 
@@ -34,7 +44,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-Notice that the code has been decompiled from the jar files since the original code files has been lost. it is more than plausible that changes and faults will be found. 
+Notice that the code has been decompiled from the jar files since the original code files has been lost.
+
+it is more than plausible that changes and faults will be found. 
 If this is the case,  would love to know so!
 
 ## License
